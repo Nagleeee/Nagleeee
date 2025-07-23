@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nagle and I'm a estudante, from Sistemas de Informação e tambem um futuro Dev.</h2>
+<h2 align="left">Hi 👋! My name is Nagle.</h2>
 
 ###
 
@@ -9,9 +9,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
